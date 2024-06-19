@@ -1,0 +1,89 @@
+Repo,Commit SHA,Message,Suggestion
+Fliegende-Rehe/OS,4b1926508bc16e6e348aa43e1961ab2805a76e6b,Delete .gitblah-kFYi.swp,No specific recommendations
+Fliegende-Rehe/OS,23a66c9a70d13e6855f2a849db68703ace229b39,Delete .idea directory, | Review large deletions (Many deletions may indicate a fix) |
+Fliegende-Rehe/OS,861e72c99cc0ce57d3c43dd810a07a8089073d4b,A bunch of horrible changes," | Review large additions |;  | Review total changes for potential issues (Too many changes since last commit) |;  | Review changes in multiple files (Many files updated, expected compatibility issues) |; | Review large time gap between commits (Large time gap between commits may indicate a slow development process) |"
+Fliegende-Rehe/OS,0b284e5d7b6a9a874a68168c22848e4eae1d2b43,asd,| Review large time gap between commits (Large time gap between commits may indicate a slow development process) |
+Fliegende-Rehe/OS,f6b94c416eefdd4db115d3f4d217aae03ef768d3,practice part is ready,No specific recommendations
+Fliegende-Rehe/OS,8400aec51899688dc53267ceb3b1b08713d64faf,week7 complete,No specific recommendations
+Fliegende-Rehe/OS,985fbce10f5c71d94af70bc6987d76c0e095c7c3,compelete ex3 and clean up old code,| Review large time gap between commits (Large time gap between commits may indicate a slow development process) |
+Fliegende-Rehe/OS,8802b97680a1c328e4dd536c7e5b9f0feb5b9c92,add ex2 and fix ex1,No specific recommendations
+Fliegende-Rehe/OS,0be2128175a5be1b1e497a94afb5529cb68bc49c,complete ex1,No specific recommendations
+Fliegende-Rehe/OS,a7b6a3e5d34cab7fd463c65890a3f463f3df9009,fix ex3 a little and solve ex4,No specific recommendations
+Fliegende-Rehe/OS,a4bedad53041593bc6f552fa5e47ed4ab66cf29c,rewrite ex3 using TAs' teamplate,No specific recommendations
+Fliegende-Rehe/OS,a73b5bf3094b90a2e661e97116fa38ad3ea5c421,add ex3 and fix ex2,No specific recommendations
+Fliegende-Rehe/OS,30d2cb4ab0c62ac7062a854399112e8feea315c4,Complete ex2 and fix ex1,No specific recommendations
+Fliegende-Rehe/OS,fe5057346dba21e7ae78c9c981e452f0347b8329,ex1 is complete,No specific recommendations
+Fliegende-Rehe/OS,75f4a167da1c7d6e0dcbab9ec09cc57907918f2a,try ex4 add cd command,No specific recommendations
+Fliegende-Rehe/OS,9205d7d0439d9cf473c99499becae725362b60d1,add ex3 and clean up ex2,No specific recommendations
+Fliegende-Rehe/OS,332bb590c3db837d2a9370bbf227bca1e82db8cb,fix ex2.c,No specific recommendations
+Fliegende-Rehe/OS,099924f200dc84210807360dc7d979e702e16eba,ex2 is complete,No specific recommendations
+Fliegende-Rehe/OS,e782cca7111f7861da0c551547845a2c2c0de89c,Merge branch 'main' of https://github.com/Fliegende-Rehe/F22_OperSys into main,No specific recommendations
+Fliegende-Rehe/OS,99e349209780f76dba92e4854fa95307d55553ad,ex1 is complete,No specific recommendations
+Fliegende-Rehe/OS,4d3b96abafded5044f10277f916685355f1cdd10,ex1 is complete,No specific recommendations
+Fliegende-Rehe/OS,d1e3fce3972e51489da460b2231ae83ea0f3e734,ex3 template,No specific recommendations
+Fliegende-Rehe/OS,2a822aa5e62ec1d0a5e4be0b516ce3a7fe1f8a5a,Merge branch 'main' of https://github.com/Fliegende-Rehe/F22_OperSys into main,No specific recommendations
+Fliegende-Rehe/OS,dd5b4b365af1f8a1095dc4e25d40c286949b5943,add ex2,No specific recommendations
+Fliegende-Rehe/OS,ea2e45b62f4cdcbee9792b936d5f352027f8f34f,Update ex1.c,No specific recommendations
+Fliegende-Rehe/OS,1401b62ed0b061e42acc5bd03c4fc9e137223afa,Delete ex1,No specific recommendations
+Fliegende-Rehe/OS,650d057e3428a1e4b9b7159e862d3db86757ffb4,Delete ex1.sh,No specific recommendations
+Fliegende-Rehe/OS,81a1df1b975987dcc9fba38e55446a45ef052f59,ex1,No specific recommendations
+Fliegende-Rehe/OS,1f08c31da2e555572b4a18f45a68c2388ed9a0ca,setup enviroment,No specific recommendations
+Fliegende-Rehe/OS,a1331ff588ecc5258c6188e0a4e89289caae1fee,set up wls on windows,No specific recommendations
+Fliegende-Rehe/OS,4bf56940f30100b05ffce4adf56213d27521eb65,1 - 5,No specific recommendations
+Fliegende-Rehe/OS,a7933c264c523c6d8b29fc13d2ca921fe37fb878,from 1 to 4 ex,No specific recommendations
+Fliegende-Rehe/OS,189f4cb764adcb444959d22f957bb55c0ae3f7dc,ex3,No specific recommendations
+Fliegende-Rehe/OS,e7885e30f0f3d18592c5d06d2a942d6cd798f09a,ex2.c,No specific recommendations
+Fliegende-Rehe/OS,75a4659217c4f491d7a5f56cd22eaf2a7296f6f6,ex1.c,No specific recommendations
+Fliegende-Rehe/OS,03f2164cff33ea2dda17a9043f8bb5a20347c989,.sh,No specific recommendations
+Fliegende-Rehe/OS,24a21e92cba62e9ff239a297735670106faf9717,task 4,No specific recommendations
+Fliegende-Rehe/OS,e9f5c606e87e50b8c0c8f32e716091602ae289c1,3 task,No specific recommendations
+Fliegende-Rehe/OS,8e8bf35c74cecb86deb721771778970b6d75b487,"Delete .idea directory
+
+clear garbage",No specific recommendations
+Fliegende-Rehe/OS,65bdc781f874b40c1f2bbc47134e0c4a0c281df8,1 + 2 task,No specific recommendations
+Fliegende-Rehe/OS,d8a47242ba2518fc95e330919a4a06bcbdc48ff8,week1,No specific recommendations
+Fliegende-Rehe/OS,11f6eff3fbbd5c3134ebbc6fc3a9139bfb57d484,week01,No specific recommendations
+Fliegende-Rehe/OS,8b13c3afa37137bd9285a308f63d4955d0c4a679,Initial commit,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,a31a3c236f5e4d6bfb3f35c083c13adf931db5c4,presentation update, | Review large deletions (Many deletions may indicate a fix) |
+Fliegende-Rehe/PMLDL_Q2C,ac17ee91fbf7b89cda5ca0e52e2a8a13b6ef7177,presentation update,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,cd0d764951325d83f54f77d97cf8755203ca6979,final report,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,39bbfe09bd800336d1d5f76451681c5a12731060,final report,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,d4b202710842f075135ef69ed5dfbda96d04c43b,final report,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,fe260af53f892604f6b89baa7a8eb227731b2874,final report,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,37a91be4b88acd3bda73c529208123a7fb1b30d6,final report,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,c1a520fd1f725a5794fba9f9c4cf84eea232858b,Universal cosine similarity method,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,0e3e9e1ff269de40125790eb840c81f79f13109e,File renaming,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,351d5e9088fcc7a72ec92740720fe10e0b7dfac3,Added file for model downloading,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,6aaf0893dc11d3078be9a3cf137c4606b292a85b,Added bot sources, | Review large deletions (Many deletions may indicate a fix) |
+Fliegende-Rehe/PMLDL_Q2C,0cc5bfe4ffe6d915e93a5adb0d0b1bd721b2a6e2,Scenarios and separate FastText file,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,83bebb00a6c780fa97100716ebf2bc7e4d7e41f5,week 3,| Review large time gap between commits (Large time gap between commits may indicate a slow development process) |
+Fliegende-Rehe/PMLDL_Q2C,8bf923e883d737d36cdbebfd63668d29f40d6521,week 3,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,65925eaffc9b5386e235728423be0e7be3cad044,Delete _resources directory,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,b840b4b2a7fad868a900d68fdf95c62e40a18108,Delete progress_reports directory,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,54073a8a1064cad5566a1237ef7c009dc17bad46,week 3, | Review large additions |;  | Review large deletions (Many deletions may indicate a fix) |;  | Review total changes for potential issues (Too many changes since last commit) |
+Fliegende-Rehe/PMLDL_Q2C,a1cad09a541fe7bb523ee9cc6d82f393d41070b4,requirements,| Review large time gap between commits (Large time gap between commits may indicate a slow development process) |
+Fliegende-Rehe/PMLDL_Q2C,4a546ea1550d972e1cfeb6676daf87fbd7f41859,Merge remote-tracking branch 'origin/master',No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,b0ddea25af4d34b9de3cfb05b8127a1ac5aba04c,progress report 2,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,8cb3d6e6d588021e3740b549af4f3fc33c95128f,Delete .idea directory,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,94d391cfb5e4b567d618e991f585e6895555dde7,progress report 2,No specific recommendations
+Fliegende-Rehe/PMLDL_Q2C,d8d4c8f58563bde625e7804027db6f492c9d5110,Initial commit," | Review large additions |;  | Review total changes for potential issues (Too many changes since last commit) |;  | Review changes in multiple files (Many files updated, expected compatibility issues) |"
+Fliegende-Rehe/DSD,5404beac21d6572876ef0e358804a4e00e33668e,lab 4, | Review large additions |;  | Review total changes for potential issues (Too many changes since last commit) |
+Fliegende-Rehe/DSD,6e950812265f79cc2bd9afa70d6e4523ca618e5e,lab 4 tasks 1-5 solution, | Review large deletions (Many deletions may indicate a fix) |;  | Review total changes for potential issues (Too many changes since last commit) |
+Fliegende-Rehe/DSD,492fa5e6366dab4dfc54e2084fcd4f905a63b0f7,lab 4 tasks 1-4 solution, | Review large deletions (Many deletions may indicate a fix) |
+Fliegende-Rehe/DSD,409c9423a918521a09cf59ee29daee0f1991c229,lab 4 tasks 1-3 solution, | Review large additions |;  | Review total changes for potential issues (Too many changes since last commit) |
+Fliegende-Rehe/DSD,a861d6eb0c0cac9e0a70104ba79fc08fc68dada6,lab 4 tasks 1-2 solution, | Review large deletions (Many deletions may indicate a fix) |
+Fliegende-Rehe/DSD,1fca0863fd153b3ac66422725d046be6f3d25a6c,lab 4 no solution," | Review large additions |;  | Review total changes for potential issues (Too many changes since last commit) |;  | Review changes in multiple files (Many files updated, expected compatibility issues) |"
+Fliegende-Rehe/DSD,1bdbb860a20bc377432eb787475ff0aeec89a723,hw3," | Review large additions |;  | Review total changes for potential issues (Too many changes since last commit) |;  | Review changes in multiple files (Many files updated, expected compatibility issues) |; | Review large time gap between commits (Large time gap between commits may indicate a slow development process) |"
+Fliegende-Rehe/DSD,aae8af2f2a25f34916f6dc6cf484e2c3facb4585,hw2 done,| Review large time gap between commits (Large time gap between commits may indicate a slow development process) |
+Fliegende-Rehe/DSD,2421d0764b35cbe43a5859e4736a05d60699c01b,hw2 done,No specific recommendations
+Fliegende-Rehe/DSD,f50955098101a31cc755afff40e0e8536d1494f2,hw1 done,No specific recommendations
+Fliegende-Rehe/DSD,288ab2737228bc272e5302113ff609e6b739764e,hw1 done,No specific recommendations
+Fliegende-Rehe/DSD,9e524bdd77131c23a97159bb0dc2360632fa8a45,add pdf,No specific recommendations
+Fliegende-Rehe/DSD,2be3fd288070a7cb5ec1e3d1544dcf4c4322cfbe,fix small typos,No specific recommendations
+Fliegende-Rehe/DSD,e908e3ae4cc5263c0bd81fcfba0819fb0f381f5b,"Update README.md, remove html",No specific recommendations
+Fliegende-Rehe/DSD,bfac701c86cdcae8afaa5de3969dad1f46a4e7b3,Аргессивная оптимизация prepare_public_package скрипта, | Review large deletions (Many deletions may indicate a fix) |
+Fliegende-Rehe/DSD,c0af5ec594c84a604874eb8a8158906f7eda91e9,Изменил описание для 2023,No specific recommendations
+Fliegende-Rehe/DSD,2a80045bfa124db8f9d6703eb9447a6c1a321dc5,Replaced 'always @*' with 'always_comb',No specific recommendations
+Fliegende-Rehe/DSD,6f9ab030f6f99a4cacc44ac64e196f712fd5a536,The first public draft of the exercises," | Review changes in multiple files (Many files updated, expected compatibility issues) |"
+Fliegende-Rehe/DSD,c11be272240f7ecc78d5ad0d72c75da0beb376c7,The first public draft of the exercises,No specific recommendations
+Fliegende-Rehe/DSD,b11e0b4bc05a8d151f3b9a90f7ffe4b743495677,Added first files,| Review large time gap between commits (Large time gap between commits may indicate a slow development process) |
