@@ -10,11 +10,15 @@ from sklearn.metrics import accuracy_score
 from datetime import datetime, timedelta
 from sklearn.cluster import KMeans
 
-# Ваш персональный токен доступа к GitHub
-access_token = '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'
+# Чтение конфигурации из файла
+config = {}
+with open('config.txt', 'r') as file:
+    for line in file:
+        name, value = line.strip().split('=')
+        config[name] = value
 
-# Список репозиториев для анализа
-repos = ['Fliegende-Rehe/OS', 'Fliegende-Rehe/PMLDL_Q2C', 'Fliegende-Rehe/DSD']
+access_token = config['access_token']
+repos = config['repos'].split(',')
 
 # Аутентификация с использованием токена доступа
 g = Github(access_token)
@@ -116,6 +120,8 @@ def generate_capa_recommendations(data, ADDITION_THRESHOLD, DELETION_THRESHOLD, 
             suggestion.append(' | Review changes in multiple files (Many files updated, expected compatibility issues) |')
         if abs(commit_data['Time Since Last Commit']) > abs(TIME_SINCE_LAST_COMMIT_THRESHOLD):
             suggestion.append('| Review large time gap between commits (Large time gap between commits may indicate a slow development process) |')
+        if len(commit_data['Message']) < 15 and commit_data['Total Changes'] > TOTAL_CHANGE_THRESHOLD:
+            suggestion.append('| Commit message is too short, consider providing more details |')
         if not suggestion:
             suggestion.append('No specific recommendations')
 
