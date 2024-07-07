@@ -1,0 +1,2 @@
+access_token=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
+repos=Fliegende-Rehe/OS,Fliegende-Rehe/PMLDL_Q2C,Fliegende-Rehe/DSD
